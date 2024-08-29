@@ -612,7 +612,10 @@ footer .image img {
         width: 16px;
         height: 16px;
     }
-
+.section02 {
+    height: 90vh;
+    margin-bottom: 100px;
+}
     .section03 {
         max-width: 390px;
         width: calc(100% - 10px);
@@ -679,7 +682,14 @@ footer {
     height: 94%;
 }
 
-
+.section03 .item_wrap .item01 ul {
+    gap: 10px;
+    margin-bottom: 5px;
+}
+.section03 .item_wrap .item01 ul li {
+    font-size: 13px;
+    padding: 0;
+}
 
 
 
